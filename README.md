@@ -15,3 +15,7 @@ Help/Assistance/Guide > Help Prompt
 https://console.dialogflow.com/api-client/
 (I think it's only my account right now - Ricky)
 
+
+Use:
+
+demo > simple > index.html
