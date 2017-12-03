@@ -1,18 +1,17 @@
-Software Engineering Group
--------
-CHATBOT
+Software Engineering Group | CHATBOT
 
-Information:
+Dialogflow
 
-API: tbd
-Can possibly use Dialogflow?
+Can add intents and agents on the console manually
 
-TODO:
+Hosted on a website
 
-Find API
-Set up Github
-Use a server? Don't need to but they would like us to (Amazon Web Services)
-Ice Cream Easter Egg
+Uses Javascript
 
-Don't panic. Main thing is finding the API and it's easy from there.
+Dialogflow: https://console.dialogflow.com/api-client/#/agent/96d11b69-39e4-4c1b-a64d-4b4dd1fc9590/intents
 
+To test, go to demo > simple > index.html
+
+Make sure to enter KEY (Will fix this, set to default)
+
+Currently displays current payload. Will leave this as is for better understanding.
